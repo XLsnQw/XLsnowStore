@@ -47,9 +47,9 @@
         
         {
             "Name": "XLsnPopup",
-            "Description": "调用底层代码显示-读取iOS系统显示帧率、功耗等信息IPA.",
+            "Description": "读取iOS系统帧率功耗等信息进行弹窗显示",
             "Developer": "XLsn0w",
-            "Icon": "https://avatars.githubusercontent.com/u/170282731?v=4",
+            "Icon": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnPopup.png",
             "Screenshot": [],
             "Releases": [
                 {

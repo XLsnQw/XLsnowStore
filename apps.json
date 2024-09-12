@@ -1,5 +1,20 @@
 {
     "apps": [
+       {
+            "Name": "XLsnowTroll",
+            "Description": "XLsnowTroll 巨魔工具箱",
+            "Developer": "XLsn0w",
+            "Icon": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnowTroll.png",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "2.0.4",
+                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.0/XLsnowTroll_2.0.4-6.ipa",
+                    "Description": "XLsnowTroll 巨魔工具箱"
+                }
+            ]
+        },
+        
         {
             "Name": "nathanlr",
             "Description": "不完美越狱 iOS 16.5.1-16.6.1",

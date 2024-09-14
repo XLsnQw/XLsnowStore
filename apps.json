@@ -1,5 +1,35 @@
 {
     "apps": [
+       {
+            "Name": "XLsnowTroll",
+            "Description": "XLsnowTroll 巨魔工具箱",
+            "Developer": "XLsn0w",
+            "Icon": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnowTroll.png",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "2.0.4",
+                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.0/XLsnowTroll_2.0.4-6.ipa",
+                    "Description": "XLsnowTroll 巨魔工具箱"
+                }
+            ]
+        },
+        
+        {
+            "Name": "nathanlr",
+            "Description": "不完美越狱 iOS 16.5.1-16.6.1",
+            "Developer": "Nathan",
+            "Icon": "https://avatars.githubusercontent.com/u/87825638?v=4",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "1.0.9",
+                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.0/nathanlr.tipa",
+                    "Description": "iOS 16.5.1-16.6.1 不完美越狱"
+                }
+            ]
+        },
+
         {
             "Name": "Bootstrap",
             "Description": "RootHide不完美越狱Bootstrap更新.",
@@ -17,9 +47,9 @@
         
         {
             "Name": "XLsnPopup",
-            "Description": "调用底层代码显示-读取iOS系统显示帧率、功耗等信息IPA.",
+            "Description": "读取iOS系统帧率功耗等信息进行弹窗显示",
             "Developer": "XLsn0w",
-            "Icon": "https://avatars.githubusercontent.com/u/170282731?v=4",
+            "Icon": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnPopup.png",
             "Screenshot": [],
             "Releases": [
                 {

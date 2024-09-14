@@ -1,0 +1,30 @@
+{
+  "name": "XLsnowStore Repository",
+  "identifier": "kh.crysalis.feather-repo",
+  "iconURL": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnowTroll.png",
+  "apps": [
+    {
+      "name": "XLsnowTroll",
+      "bundleIdentifier": "XLsnow.Troll",
+      "developerName": "Samara",
+      "iconURL": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnowTroll.png",
+      "localizedDescription": "巨魔工具箱 by XLsn0w",
+      "subtitle": "巨魔多功能工具箱",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "2.0.5",
+          "date": "2024-08-30T18:34:10Z",
+          "size": 12375230,
+          "downloadURL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.1/XLsnow.Troll_2.0.5-%E5%A2%9E%E5%8A%A0%E5%BA%94%E7%94%A8%E9%99%8D%E7%BA%A7.ipa"
+        }
+      ],
+      "size": 12375230,
+      "version": "2.0.5",
+      "versionDate": "2024-08-30T18:34:10Z",
+      "downloadURL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.1/XLsnow.Troll_2.0.5-%E5%A2%9E%E5%8A%A0%E5%BA%94%E7%94%A8%E9%99%8D%E7%BA%A7.ipa",
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}

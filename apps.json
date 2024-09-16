@@ -16,31 +16,31 @@
         },
         
         {
-            "Name": "nathanlr",
-            "Description": "不完美越狱 iOS 16.5.1-16.6.1",
-            "Developer": "Nathan",
-            "Icon": "https://avatars.githubusercontent.com/u/87825638?v=4",
+            "Name": "XLsnowStore",
+            "Description": "XLsnow's App Store",
+            "Developer": "XLsnow",
+            "Icon": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnowAppStore.png",
             "Screenshot": [],
             "Releases": [
                 {
-                    "Version": "1.0.9",
-                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.0/nathanlr.tipa",
-                    "Description": "iOS 16.5.1-16.6.1 不完美越狱"
+                    "Version": "2.0.0",
+                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.2/XLsnowStore-Beta.ipa",
+                    "Description": "XLsnow's App Store 应用商店"
                 }
             ]
         },
 
         {
-            "Name": "Bootstrap",
-            "Description": "RootHide不完美越狱Bootstrap更新.",
-            "Developer": "RootHide",
-            "Icon": "https://avatars.githubusercontent.com/u/134120506?s=200&v=4",
+            "Name": "XLsnowIPA",
+            "Description": "XLsnow IPA 解包签名工具",
+            "Developer": "XLsnow",
+            "Icon": "https://gitee.com/xlsn0w/XLsnowStore/raw/master/XLsnowIPA.png",
             "Screenshot": [],
             "Releases": [
                 {
-                    "Version": "1.2.6",
-                    "URL": "https://github.com/roothide/Bootstrap/releases/download/1.2.6/Bootstrap.tipa",
-                    "Description": "iOS 17.0 不完美越狱"
+                    "Version": "1.0.1",
+                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.2/XLsnowIPA.ipa",
+                    "Description": "XLsnow IPA 解包签名工具"
                 }
             ]
         },

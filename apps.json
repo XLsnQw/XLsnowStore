@@ -38,8 +38,8 @@
             "Screenshot": [],
             "Releases": [
                 {
-                    "Version": "1.0.1",
-                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.2/XLsnowIPA.ipa",
+                    "Version": "1.1.0",
+                    "URL": "https://gitee.com/xlsn0w/XLsnowStore/releases/download/1.0.3/XLsnowIPA-%E8%A7%A3%E5%8C%85%E5%B0%81%E5%8C%85ipa%E6%B0%B8%E4%B9%85%E7%AD%BE%E5%90%8D%E5%B7%A5%E5%85%B7.ipa",
                     "Description": "XLsnow IPA 解包签名工具"
                 }
             ]
